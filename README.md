@@ -1,4 +1,10 @@
-# Desafio: Criando um hook de carrinho de compras.
+<p align="center">
+  <img alt="Github explorer app" src=".github/app.png" width="100%">
+</p>
+
+Esse é desafio feito durante minha jornada no [Ignite](https://www.rocketseat.com.br/ignite), da Rocketseat.
+
+# Desafio: criando um hook de carrinho de compras
 
 Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS
 
@@ -34,7 +40,7 @@ Com o template já clonado, as depêndencias instaladas e a fake API rodando, vo
 - Clone o repositório
 - Instale as dependências com `yarn`
 - Inicie a fake api com `yarn server`
-- Inicie o servidor com `yarn dev`
+- Inicie o servidor com `yarn start`
 
 ## Licença
 
